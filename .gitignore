@@ -28,3 +28,7 @@ node_modules
 
 # Coverage report
 /test/unit/coverage
+
+# Lock files
+package-lock.json
+yarn.lock
