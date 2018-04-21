@@ -1,7 +1,7 @@
 {
-  "name": "parcel-vuejs-template",
+  "name": "vue-parcel",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "Boilerplate for stack of Vue/Parcel",
   "author": "",
   "private": true,
   "scripts": {
