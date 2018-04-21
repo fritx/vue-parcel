@@ -25,3 +25,6 @@ node_modules
 
 # Parcel cache
 .cache
+
+# Coverage report
+/test/unit/coverage
